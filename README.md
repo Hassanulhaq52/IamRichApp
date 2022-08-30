@@ -2,6 +2,9 @@
 
 A new Flutter project created to see how I am Rich.
 
+
+![I am rich](https://user-images.githubusercontent.com/81625175/187412527-95b7060c-26a5-4c12-a72a-04d512f3b3b6.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
